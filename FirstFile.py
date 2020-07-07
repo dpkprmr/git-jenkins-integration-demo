@@ -1,7 +1,6 @@
-
 a=10
 b=20
- for Python Project
+
 print(a+b)
 print(a-b)
 print(a*b)
